@@ -1,29 +1,172 @@
-<h1 align="center">Hi 👋, I'm Arslan Jutt</h1>
-<h3 align="center">A passionate Software Engineering , MERN Stack Developer & WordPress Developer</h3>
+ 
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanjatt0225-prog&label=Profile%20views&color=0e75b6&style=flat" alt="arslanjatt0225-prog" /> </p>
+# 👋 Hi, I'm Arslan Jutt
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslanjatt0225-prog" alt="arslanjatt0225-prog" /></a> </p>
+### Software Engineering Student | MERN Stack Developer | WordPress Developer
 
-- 🔭 I’m currently working on **AI-Powered School Management System**
-
-- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB, Advanced JavaScript**
-
-- 💬 Ask me about **React, JavaScript, WordPress, HTML, CSS, Bootstrap, Tailwind CSS, UI/UX Design**
-
-- 📫 How to reach me **arslanjatt0225@gmail.com**
-
-- ⚡ Fun fact **I turn creative ideas into functional websites and love learning new technologies!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Web+Developer;WordPress+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=arslanjatt0225-prog&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/arslanjatt0225-prog?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/arslanjatt0225-prog?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslanjatt0225-prog&show_icons=true&locale=en&layout=compact" alt="arslanjatt0225-prog" /></p>
+<p>
+  <a href="https://github.com/arslanjatt0225-prog">
+    <img src="https://img.shields.io/badge/GitHub-Arslan%20Jutt-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://digital-jutt-website-1.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslanjatt0225-prog&show_icons=true&locale=en" alt="arslanjatt0225-prog" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslanjatt0225-prog&" alt="arslanjatt0225-prog" /></p>
+---
+
+## 👨‍💻 About Me
+
+I'm Arslan Jutt, a Software Engineering student and passionate web developer from Pakistan 🇵🇰.
+
+I enjoy building modern, responsive and user-friendly websites and web applications. My main focus is MERN Stack development, React.js, WordPress and creating practical digital solutions.
+
+- 🔭 Currently working on an **AI-Powered School Management System**
+- 🌱 Currently learning **Advanced JavaScript, React.js, Node.js and MongoDB**
+- 💻 Interested in **Full Stack Web Development**
+- 🎨 I also have experience in **UI/UX and Graphic Designing**
+- 🤝 Open to collaborating on interesting web development projects
+- 💬 Ask me about **React, JavaScript, WordPress, HTML, CSS and Tailwind CSS**
+- 📫 Reach me at **arslanjatt0225@gmail.com**
+- ⚡ Fun fact: I turn creative ideas into functional websites!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,redux" />
+</p>
+
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### Database & Backend Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### CMS & Website Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress,php" />
+</p>
+
+### Design & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arslanjatt0225-prog&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanjatt0225-prog&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+### 🔥 Contribution Streak
+
+<img width="75%" src="https://streak-stats.demolab.com?user=arslanjatt0225-prog&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+### 🏆 GitHub Trophies
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=arslanjatt0225-prog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📉 Contribution Activity & Commit Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arslanjatt0225-prog&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌐 Digital Jutt Website
+
+<a href="https://github.com/arslanjatt0225-prog/DigitaljuttWebsite">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=arslanjatt0225-prog&repo=DigitaljuttWebsite&theme=tokyonight&hide_border=true" alt="Digital Jutt Repository" />
+</a>
+
+**Live Website:** [digital-jutt-website-1.vercel.app](https://digital-jutt-website-1.vercel.app/)
+
+A digital platform focused on web development, digital services and learning opportunities.
+
+</div>
+
+### 🎓 AI-Powered School Management System
+
+Currently developing an AI-powered School Management System as a Software Engineering Final Year Project.
+
+**Key focus areas:**
+- Smart school management
+- Student and teacher management
+- AI-powered information assistance
+- Attendance and academic management
+- Administrative dashboards
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/arslanjatt0225-prog">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/arslanjutt225/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/arslanjutt225">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/arslan-jutt">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+  <a href="mailto:arslanjatt0225@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Let's connect, collaborate and build something amazing together!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6366F1&height=100&section=footer" width="100%" />
+
+</div>
